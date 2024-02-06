@@ -1,4 +1,4 @@
-# Star Wars Favourites characters app
+# Star Wars Favourite characters app
 
 ## Description
 
