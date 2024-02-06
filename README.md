@@ -1,3 +1,3 @@
 # Star Wars Favourites characters app
 
-![](./assets/StarWarsApp_presentation.gif)
+<img src="./assets/StarWarsApp_presentation.gif" width="500" height="1500">
