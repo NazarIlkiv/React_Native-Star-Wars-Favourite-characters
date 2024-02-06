@@ -55,7 +55,7 @@ export default function HomeScreen({ navigation }) {
   const renderItem = ({ item }) => {
     return (
       <Character
-        info={item}
+        information={item}
         navigation={navigation}
         setFavourites={setFavourites}
         resetLikes={resetLikes}
